@@ -1,102 +1,139 @@
-<h1 align="center">Hey, I'm Manan 👋</h1>
-<h3 align="center">Turning caffeine and curiosity into AetherIQ & PlantSphere</h3>
+<div align="center">
 
-<pre align="center">
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX***XXXXXX*******X**XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX**Xx=+;:^^'''^^:;;;::+==***XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX**Xx+;'``...````````````````:-+xX**XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX**X+;'`..```````````````````````..`'^-X**XXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX*X+;'..``````````````````````````````...`^-X*XXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXX*=:`...````````````````````````````````````.':=**XXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXX*:  .....`````````````````````````````````````.:=X*XXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXX*x' .........`````````````````````````````......```:x*XXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXX*+  .......`.``````.`````````''``````````........```.'-XXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXX*- ...........```````````````````'''``````.........````.;*XXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXxX+ ............`````''`````````````''''''```````....`````.+*XXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXxxx= .............``````.```..``````````''''''`````....`````.'*XXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXxxxx=x^ .. ........```'^:::::::^^^''```'''^'''''''````....``````.+*XXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXxxxx=====.        ...``':;-++++++++--;-----;:'```'''```````````````.:*XXXXXXXXXXXXXXXXX
-xXXXXXXXXxxxxx====++=;        .`````':;;;;;-----++++++--:^^:^:::^'```````....`.`.^XxXXXXXXXXXXXXXXXX
-xXXXXxxxxxx=====++++=;       ````````````''^::;;------;;:^''''''''''''^'.......`.'XXXXXXXXXXXXXXXXXX
-xxxxxxxx======+++++++-      '^'^^^::;-;;;;:^^^^^:;---;::^^::;;------;;::^`...... :XxXXXXXXXXXXXXXXXX
-xxxxxx======+++++++++-     .^^^^^^^:::;:;::;;::^:--+-;:::::^^::;;;;;;;;;;:`......;XxXXXXXXXXXXXXXXXX
-xxxx========++++++++++.    ':::^'``.'....'^`^;:::;-----;:``:.  .''`'^;;---:.....'xxXXXXXXXXXXXXXXXXX
-xx=========+++++++++++`    ^:::^''`':^```;-^^::::;;---;-:^:;^``^-:''^;----;..`..-XxXXXXXXXXXXXXXXXXX
-===========+++++++++++;   .::;;;;;;:::;;;;;;;:::;;-------+;;------++++++---..`.^XxxXXXXXXXXXXXXXXXXX
-==========+++++++++++++'  `;;;;------------;;::;;--------++++++===+++++++++`.`.=XxXXXXXXXXXXXXXXXXXX
-===========++++++++++++:. ';;;;------------;:::;;+-+++++--++++++++==+++++++^.`'xXxXXXXXXXXXXXXXXXXXX
-===========++++++++++++;  ^:::;;;--------;;;;:^^::;;-;:-++;-+++++++++++++++^.`^XXxXXXXXXXXXXXXXXXXXX
-===========+++++++++++++' ':::::;;;-----;;::^`.``'''^'..^-;;;-++++++------+^.'=XxXXXXXXXXXXXXXXXXXXX
-===========+++++++++++++-.`:^^:::::;;;;;;;;^'`'^^^'^:;:'':-----+++--------+'`;xXXXXXXXXXXXXXXXXXXXXX
-===========++++++++++++++:.^^^^^^:::;;;;;;;;;:::;;---;;----+++------;;-----`'-XXXXXXXXXXXXXXXXXXXXXX
-===========++++++++++++++-'^^^^^^^::::;;;;;;;;;;;--;---------+----;;;;;---;';+XxXXXXXXXXXXXXXXXXXXXX
-===========+++++++++++++++^'^''^^^^^^^::::::::^^^:::::::;;-;:;;;;;;;;;;;;-;;-=XxxXXXXXXXXXXXXXXXXXXX
-==========++++++++++++++++-`^'''''^^^^'''``````'^^^:^^^^'`''`'::;;:;;;;;;-;;+XxxxxxXXXXXXXXXXXXXXXXX
-==========+++++++++++++++++:'^'''''''''''``'^^:;;;----;;;::^''^:::::;;;;-;:+XxxxxxxxXXXXXXXXXXXXXXXX
-==========++++++++++++++++++^'^'''''''''^^::^^^^^^^^^::;;---;:^^::::;;;;;;xXxxxxxxxXXXXXXXXXXXXXXXXX
-==========++++++++++++++++++:`''''''''^^^^^^^^^^''''^^:;;;;;;::::::::;;;^+XxxxxxxxxXXXXXXXXXXXXXXXXX
-==========+++++++++++++++++++'`'''''''^^^^^:::;;;;;;------;;;;;::::::::::XxxxxxxxxxXXXXXXXXXXXXXXXXX
-==========+++++++++++++++++++-``````'''^^^:::;;------------;;;;::::^^^^'+XxxxxxxxxXXXXXXXXXXXXXXXXXX
-==========++++++++++++++++++++^.```````''^^^:::;;;;;;;;;;;;;::::^^^^^^^^xXxxxxxxxXXXXXXXXXXXXXXXXXXX
-+==========+++++++++++++++++++:````..`````'''^^^^^^^^^^::::^^''''''''^:-XxxxxxxxxxXXXXXXXXXXXXXXXXXX
-+==========+++++++++++++++++=-.`'```........````````'```'```````''''^::+XxxxxxxxxxXXXXXXXXXXXXXXXXXX
-===========++++++++++++++++--` .'''````....................````'''^::;;XXXXXxxxxxxxXXXXXXXXXXXXXXXXX
-===========+++++++=++-;:^`.     .'^^'''```..............````'''^^:;;;;`':;+=xXXXXXxxxxXXXXXXXXXXXXXX
-========++++===++;:'`.           .`^::^^'```````````````'''^^^:::;;-;` .   .`':-+xXXXXXxxXXXXXXXXXXX
-++++++=====+-;^'.       ........ ...`^::^^'''''''''^^^^^^^^::;;;;--^..........  .`':-=xXXXXxxXXXXXXX
-=====++-;^'`.. .......    ....... ....`^:;::^^''''^^^^^^^::;;;;--:`..................`':-=xXXXXXXXXX
--;:^'`.. ........................  .....`':;;;::^^''^^::;;;----:'..`.............`````````'^;+=xXXXX
-..  .............................. .......`'^;;;;;;;;--------;^`.``. ..............````````````'^;-+
-................................... ....```..`':;;-------;;:^`.````. `......`.......````````````````
-..................... .............  .....````..`':;;;;;;:^``````.. .`.....````.....````````````````
-.................... .`.............  ......``````.`'^^''``````...  .`....``````````````````````````
-......................```.........`. .........```..  .`````````..   .`.`````````````````````````````
-......................`````````````.............. ... .`````````.   ````````````````````````````````
-.....................`.````````````.. ........ .`.``..  .``````... .````````````````````````````````
-...```...............`.`````````````.  .....   .``.....   ..```... .````````````````````````````````
-....``````...........`````````````...  ........ ...`.`..... ......  ````````````````````````````````
-```....````..........```....````............... .```````....... .. .````````````````````````````````
-````.```````.`.......``..........................``````````..`...  .````````````````````````````````
-``````````````................................ ..````````..````... .```````````````````````````````'
-```````````````..........................`..... .```````````````.. .````````````````````````````````
-```````````````..........................```... .```````````````.. .````````````````````````````````
-.```````````````.........................```.`.. `````````.``````. .````````````````````````````````
-`````````````````........................```.....````````````````. .````````````````````````````````
-...`````````````........................`````.. .```''```````````. .````````````````````````````````
-...````````````.........................``````. .`.``^`.`````````. .````````````````````````````````
-.....```````````........................`````.. .``..`..`````````. .````````````````````````````````
-.......`````````........................``````. .````````````````. .````````````````````````````````
-........```````.... ....................``````. .````````````````. .````````````````````````````````
-.........````...... .....................````....````````````````. .````````````````````````````````
-</pre>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=%E2%9F%A8+Manan+Verma+%E2%9F%A9;Data+Scientist;Status%3A+Actively+Training+Models..." alt="Typing SVG" />
 
-<p align="center">
-  ✉️ mananverma865@gmail.com &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/mananverma-24b9a0417">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/Mananverma1">GitHub</a> &nbsp;|&nbsp;
-  📍 Jaipur, India
-</p>
+*A human, fine-tuned on curiosity, deployed in production since day one.*
+
+</div>
 
 ---
 
-### 🌱 Currently
-Studying Computer Science (AI) at **JK Lakshmipat University**, but the real classroom is whatever I'm building at 2am. Somewhere between a dataset and a deployment, I fell in love with making machines a little less dumb.
+## ▸ Model Overview
 
-### 🧠 What I'm into
-`Python` `SQL` `Machine Learning` `Generative AI` `RAG` `AI Agents` `Data Analytics` `Computer Vision` `Flutter`
-
-### 🚀 Things I've built
-- 🔬 Taught a model to spot cancer cells better than I spot my keys in the morning
-- 📊 Piped live data from MySQL into SQL Server just to watch dashboards breathe in real-time
-- 🏦 Chased churn patterns through a bank's customer data like a detective with a spreadsheet
-
-### 💭 Fun fact
-I'm probably debugging something right now.
+```yaml
+Name: Manan Verma
+Version: Continuously-Updating
+Architecture: Full-Stack ML Engineer + Data Storyteller
+Status: Actively Training (always)
+Specialization:
+  - Financial ML systems
+  - Explainable AI / SHAP
+  - Data Visualization
+  - Neural Network Internals
+```
 
 ---
-<p align="center"><i>"Code. Learn. Build. Repeat."</i></p>
+
+## ▸ Capabilities
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Core Stack**
+```
+Python · SQL (T-SQL) · Jupyter
+Streamlit · FastAPI · MLflow
+Power BI · DAX
+```
+
+</td>
+<td valign="top" width="50%">
+
+**Domains**
+```
+Credit Risk & Fraud Detection
+Churn / LTV Modeling
+Model Explainability (SHAP)
+Neural Network Visualization
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## ▸ Featured Deployments
+
+<table>
+<tr>
+<td width="100%">
+
+**`FinGuard AI`** &nbsp; <img src="https://img.shields.io/badge/status-in--progress-F5A623?style=flat-square" alt="in progress"/>
+Multi-module financial ML platform — credit risk, fraud detection, churn/LTV, collections, A/B testing. Full FastAPI deployment layer, MLflow experiment tracking, drift monitoring, and a glass-morphism Streamlit frontend with per-page gradient theming.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**[`SupplyShieldAI`](https://github.com/Mananverma1/SupplyShieldAI)** &nbsp; <img src="https://img.shields.io/badge/status-complete-2EA043?style=flat-square" alt="complete"/>
+An intelligent food recall & supply chain traceability platform powered by **graph analytics**. Models a restaurant supply chain as a graph — suppliers, distribution centers, kitchens, stores, finished products — to trace contamination incidents in real time and generate targeted recall strategies, instead of relying on traditional database joins.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**[`DualStack Analytics Engine`](https://github.com/Mananverma1/DualStack-Analytics-Engine)** &nbsp; <img src="https://img.shields.io/badge/architecture-dual--stack-6C63FF?style=flat-square" alt="dual stack"/>
+An enterprise cross-platform e-commerce BI system — a full data engineering pipeline bridging a **MySQL (OLTP)** transactional storefront to a **Microsoft SQL Server (OLAP)** data warehouse via an automated Python ETL pipeline, feeding a self-refreshing Plotly Dash BI dashboard.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**`NGO Impact Research`** &nbsp; <img src="https://img.shields.io/badge/status-complete-2EA043?style=flat-square" alt="complete"/>
+Verified data compilation for InAmigos Foundation — structured research on ten Indian NGOs, delivered production-ready for social-sector decision-making.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ▸ Training Log
+
+<div align="center">
+
+**Currently studying**
+
+`Hands-On Machine Learning` — Géron
+<br/>
+![70%](https://progress-bar.xyz/70?title=progress&width=280&color=6C63FF&suffix=%25)
+
+`50 ML Projects to Understand LLMs` — Mike X Cohen
+<br/>
+![45%](https://progress-bar.xyz/45?title=progress&width=280&color=F5A623&suffix=%25)
+
+</div>
+
+---
+
+## ▸ Evaluation Metrics
+
+<div align="center">
+
+| metric | value |
+|---|---|
+| projects shipped end-to-end | `high` |
+| tolerance for undocumented code | `low` |
+| coffee-to-commit ratio | `optimal` |
+
+</div>
+
+---
+
+<div align="center">
+
+### ▸ Connect
+
+<!-- Replace these with your real links -->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mananverma1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manan-verma-24b9a0417/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mv164466@gmail.com)
+
+<sub>inference speed may vary based on caffeine levels</sub>
+
+</div>
